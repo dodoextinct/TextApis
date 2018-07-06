@@ -17,7 +17,7 @@ for i in a:
 	b.append(i[0].get('post'))
 
 #authorising api key
-paralleldots.set_api_key("2eJksCHNsoqj7uZYHmEcgG9P3hiF7A9nHb4tmwvUmH8")
+paralleldots.set_api_key("<apikey>")
 
 di = {}
 new = {}
